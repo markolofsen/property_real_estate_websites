@@ -5,14 +5,18 @@
 ---
 
 # Property & Real estate website script. Free!
+Attenzione ai proprietari di case Airbnb! Risparmia tempo e denaro con il nuovo Assistente Airbnb. Prenota direttamente e non pagare alcuna commissione. Gestisci la tua lista degli ospiti e invitali di nuovo con un semplice clic di un pulsante.
+
 Property & Real estate website script. Free!
 
 Free script for real estate agency. Beautiful Airbnb theme. Better than wordpress or php.
 
+## <a href="https://estate.im/">Estate.im</a> - assistente proprietario di casa per airbnb!
+
 <hr />
 
-## Copia esatta di Airbnb! Installazione in 5 minuti!
-## <a href="https://demo.estate.im">Sito Web demo</a>
+### Copia esatta di Airbnb! Installazione in 5 minuti!
+### <a href="https://demo.estate.im">Sito web demo</a>
 
 ### Funzionalità di AIrbnb
 * Importa appartamenti da Airbnb ( <a href="https://estate.im/">importazione demo</a> )
@@ -32,10 +36,13 @@ Free script for real estate agency. Beautiful Airbnb theme. Better than wordpres
 * Google Analytics, Yandex Metrika.
 * Supporto 24/7.
 
+<hr />
+
+## <a href="https://estate.im/">Estate.im</a> - assistente proprietario di casa per airbnb!
 
 <hr />
 
-Versione = 0.0.4 <br />
+Versione = 0.0.5 <br />
 Nome libreria = property_real_estate_websites <br />
 Title = Property & Real estate website script. Free! <br />
 Parole chiave = airbnb clone script estate wordpress site theme rental software python django, website free <br />
